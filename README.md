@@ -1,4 +1,4 @@
-## About Me
+## About Me 🙂
 
 Hello! 👋 I'm Harshit Singh Parihar, a passionate student from India .I am exploring new technologies. 
 
