@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+[![Harxhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harxhit)](https://github.com/anuraghazra/github-readme-stats)
