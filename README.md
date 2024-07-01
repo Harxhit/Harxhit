@@ -53,6 +53,13 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)](https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/harxhitttt/)](https://www.instagram.com/harxhitttt/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Harxhit)](https://github.com/Harxhit)
+
+### Follow me:
+
+[![GitHub followers](https://img.shields.io/github/followers/Harxhit.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Harxhit?tab=followers)
 
 
 ### Follow me:
