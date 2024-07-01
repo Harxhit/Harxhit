@@ -53,11 +53,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your_username/)](https://www.linkedin.com/in/your_username/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your_username)](https://twitter.com/your_username)
-[![harxhitttt](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/your_username/)](https://www.instagram.com/your_username/)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=github&link=https://yourwebsite.com)](https://yourwebsite.com)
-[![Harxhit](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/your_username)](https://github.com/your_username)
+
 
 ### Follow me:
 
