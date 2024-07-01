@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
+# Achivements 
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Harxhit&theme=darkhub&column=8&margin-w=4&margin-h=4&row=1)
 
