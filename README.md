@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Harxhit&theme=darkhub&column=8&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Harxhit&theme=darkhub&column=8&margin-w=4&margin-h=4&row=1)
 
 <!-- Other sections of your profile README -->
+
