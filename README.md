@@ -12,11 +12,9 @@ Hello! 👋 I'm Harshit Singh Parihar, a passionate student from India .I am exp
 ### 💬 Ask me about:
 - [Python]
 
-### 📫 How to reach me:
-- [@harxhitttt]
 
 ### ⚡ Fun fact:
-- [I am dever]
+- [I love to watch anime]
 
 <!--
 **Harxhit/Harxhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
