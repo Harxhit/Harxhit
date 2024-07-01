@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Harxhit/Harxhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +15,8 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Harxhit&theme=darkhub&column=4&margin-w=15&margin-h=15)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Harxhit&theme=darkhub&column=7&margin-w=15&margin-h=15)
+
+<!-- Other sections of your profile README -->
 
 <!-- Other sections of your profile README -->
