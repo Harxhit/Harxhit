@@ -1,3 +1,27 @@
+## About Me
+
+Hello! 👋 I'm Harshit Singh Parihar, a passionate student from India .I am exploring new technologies. 
+
+
+### 🌱 I’m currently learning:
+- [Scikit-Learn]
+
+### 👯 I’m looking to collaborate on:
+- [Ai based projects]
+
+### 💬 Ask me about:
+- [Python]
+
+### 📫 How to reach me:
+- [@harxhitttt]
+
+### ⚡ Fun fact:
+- [I am dever]
+
+### 📊 GitHub Stats:
+![Harxhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harxhit&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harxhit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Harxhit/Harxhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
