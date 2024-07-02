@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 [![Harxhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harxhit)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harxhit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/Harxhit/Harxhit/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
