@@ -59,8 +59,14 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/Harxhit.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Harxhit?tab=followers)
 
+### Data Structure and Algorithum 
+[![Leetcode](https://img.shields.io/badge/-Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Harxhit/)](https://leetcode.com/Harxhit/)
+
+
 [![Harxhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harxhit)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harxhit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
