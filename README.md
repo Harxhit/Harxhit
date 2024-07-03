@@ -1,6 +1,6 @@
 ## About Me 🙂
 
-Hello! 👋 I'm Harshit Singh Parihar, a passionate student from India . I am exploring new technologies. 
+Hello! 👋 I am a dedicated student passionate about programming and technology. I have honed my skills in Python, including libraries like pandas and numpy, as well as JavaScript, C, C++, and Linux. Constantly learning and exploring new concepts, I am enthusiastic about applying my knowledge to real-world projects and challenges.
 
 
 ### 🌱 I’m currently learning:
