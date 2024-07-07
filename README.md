@@ -7,7 +7,7 @@ Hello! 👋 I am a dedicated student passionate about programming and technology
 - [Scikit-Learn]
 
 ### 👯 I’m looking to collaborate on:
-- [Ai based projects]
+- [Artificial intelligence and Machine learning based projects]
 
 ### 💬 Ask me about:
 - [Python]
