@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)](https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/harxhitttt/)](https://www.instagram.com/harxhitttt/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Harxhit)](https://github.com/Harxhit)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:harsxit04@gmail.com)](mailto:harsxit04@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-harsxit04@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harsxit04@gmail.com)
+
 
 
 ### Follow me:
