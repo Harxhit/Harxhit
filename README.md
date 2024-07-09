@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Harxhit&theme=darkhub&column=8&margin-w=4&margin-h=4&row=1)
 
 <!-- Other sections of your profile README -->
+<img align= "left" alt="coding" width= "400" src= "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalixadi21&label=Profile%20views&color=0e75b6&style=flat" alt="kalizadi21" /> </p>
 
 # 💻 Tech Stack :
 
@@ -50,10 +52,8 @@ Here are some ideas to get you started:
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ## Socials
-
-### Connect with me:
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)](https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/harxhitttt/)](https://www.instagram.com/harxhitttt/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Harxhit)](https://github.com/Harxhit)
