@@ -53,6 +53,20 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+<h2>ℹ️ Project info</h2>
+<div>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/Harxhit/Harxhit?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+    <!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/Harxhit/Harxhit?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+    <a href="https://github.com/Harxhit"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
+    <a href="https://github.com/Harxhit"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
+    <a href="https://github.com/Harxhit"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+</div>
+
+
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)](https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/harxhitttt/)](https://www.instagram.com/harxhitttt/)
