@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+
+
+
 <h2>ℹ️ Project info</h2>
 <div>
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
@@ -64,6 +67,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/Harxhit"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
     <a href="https://github.com/Harxhit"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
 </div>
+
+
 
 
 
