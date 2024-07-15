@@ -5,7 +5,7 @@ Hi I am Harshit Singh Parihar <img src="https://media.giphy.com/media/mGcNjsfWAj
 I am a dedicated student passionate about programming and technology. I have honed my skills in Python, including libraries like pandas and numpy, as well as JavaScript, C, C++, and Linux. Constantly learning and exploring new concepts, I am enthusiastic about applying my knowledge to real-world projects and challenges
 
 ### 🌱 I’m currently learning:
-- [Scikit-Learn]
+- [CSS]
 
 ### 👯 I’m looking to collaborate on:
 - [Artificial intelligence and Machine learning based projects]
