@@ -1,7 +1,8 @@
 ## About Me 🙂
 
-Hello! 👋 I am a dedicated student passionate about programming and technology. I have honed my skills in Python, including libraries like pandas and numpy, as well as JavaScript, C, C++, and Linux. Constantly learning and exploring new concepts, I am enthusiastic about applying my knowledge to real-world projects and challenges.
+Hi I am Harshit Singh Parihar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
+I am a dedicated student passionate about programming and technology. I have honed my skills in Python, including libraries like pandas and numpy, as well as JavaScript, C, C++, and Linux. Constantly learning and exploring new concepts, I am enthusiastic about applying my knowledge to real-world projects and challenges
 
 ### 🌱 I’m currently learning:
 - [Scikit-Learn]
@@ -34,12 +35,18 @@ Here are some ideas to get you started:
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Harxhit&theme=darkhub&column=8&margin-w=4&margin-h=4&row=1)
 
-<!-- Other sections of your profile README -->
-<img align= "left" alt="coding" width= "400" src= "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
+<div align="left">
+  <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
+    <img
+      width="355"
+      align="left"
+      src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
+    />
+  </a>
+</div> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalixadi21&label=Profile%20views&color=0e75b6&style=flat" alt="kalizadi21" /> </p>
 
-# 💻 Tech Stack :
+ # 💻 Tech Stack :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,12 +65,13 @@ Here are some ideas to get you started:
 
 <h2>ℹ️ Project info</h2>
 <div>
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px"> <img alt="Last commit" 
-    src="https://img.shields.io/github/last-commit/Harxhit/Harxhit?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-    <!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/Harxhit/Harxhit?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717&t=1" height="22px">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717&t=1" height="22px">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717&t=1" height="22px">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/Harxhit/Harxhit?color=F05032&logo=git&style=for-the-badge&t=1" height="22px">
+    <img alt="Total repositories" src="https://img.shields.io/badge/total%20repositories-30-blue?style=for-the-badge&logo=github&t=1" height="22px">
 </div>
+
 
 
 
@@ -89,6 +97,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harxhit&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harxhit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
 
