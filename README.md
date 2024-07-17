@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Harxhit&label=Profile%20views&color=0e75b6&style=for-the-badge">
+</p>
 
 <div align="left">
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
@@ -101,6 +104,3 @@ Here are some ideas to get you started:
 
 ![Achievements](https://github.com/your-username/your-repo/blob/main/metrics/achievements.svg)
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=for-the-badge">
-</p>
