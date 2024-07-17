@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 </div> 
 
 
+
+
  # 💻 Tech Stack :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -97,3 +99,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harxhit&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harxhit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Achievements](https://github.com/your-username/your-repo/blob/main/metrics/achievements.svg)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=for-the-badge">
+</p>
