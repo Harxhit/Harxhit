@@ -1,7 +1,6 @@
 ## Hello there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I'm Harshit Singh Parihar, a dedicated student passionate about programming and technology. I love exploring new concepts and applying my skills to real-world projects.
-
+Hello there! I'm Harshit Singh Parihar, an enthusiastic student deeply immersed in the realm of coding and technology. With a fervent curiosity, I explore the many dimensions of software development, constantly expanding my skills. Let's connect and embark on this exhilarating journey together
 ### 🌱 I’m currently learning:
 - [CSS]
 
