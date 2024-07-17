@@ -102,5 +102,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harxhit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Achievements](https://github.com/your-username/your-repo/blob/main/metrics/achievements.svg)
-
