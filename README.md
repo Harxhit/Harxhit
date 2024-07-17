@@ -1,21 +1,21 @@
-## About Me 🙂
+## Hello there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Hi I am Harshit Singh Parihar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-
-I am a dedicated student passionate about programming and technology. I have honed my skills in Python, including libraries like pandas and numpy, as well as JavaScript, C, C++, and Linux. Constantly learning and exploring new concepts, I am enthusiastic about applying my knowledge to real-world projects and challenges
+I'm Harshit Singh Parihar, a dedicated student passionate about programming and technology. I love exploring new concepts and applying my skills to real-world projects.
 
 ### 🌱 I’m currently learning:
 - [CSS]
 
 ### 👯 I’m looking to collaborate on:
-- [Artificial intelligence and Machine learning based projects]
+- Artificial intelligence and machine learning-based projects
 
-### 💬 Ask me about:
-- [Python]
+### 💬 Ask Me About
+
+- Python
+- Data structures and algorithms
 
 
 ### ⚡ Fun fact:
-- [I love to watch anime]
+- I'm an avid anime enthusiast!
 
 <!--
 **Harxhit/Harxhit** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
