@@ -2,7 +2,7 @@
 
 Hello there! I'm Harshit Singh Parihar, an enthusiastic student deeply immersed in the realm of coding and technology. With a fervent curiosity, I explore the many dimensions of software development, constantly expanding my skills. Let's connect and embark on this exhilarating journey together
 ### 🌱 I’m currently learning:
-- [CSS]
+- Cascading Style Sheets <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
 ### 👯 I’m looking to collaborate on:
 - Artificial intelligence and machine learning-based projects
