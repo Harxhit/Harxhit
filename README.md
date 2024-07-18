@@ -69,15 +69,11 @@ Here are some ideas to get you started:
 <h2>ℹ️ Project info</h2>
 <div>
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717&cachebust=1">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717&cachebust=1">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717&cachebust=1">
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/Harxhit/Harxhit?color=F05032&logo=git&style=for-the-badge&cachebust=1">
     <img alt="Total repositories" src="https://img.shields.io/badge/total%20repositories-33-blue?style=for-the-badge&logo=github&cachebust=1">
 </div>
-<div>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717&cachebust=1">
-</div>
 
+  
 
 
 
