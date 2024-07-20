@@ -50,25 +50,25 @@ Here are some ideas to get you started:
 
  # 💻 Tech Stack :
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=1572B6)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-323330?style=for-the-badge&logo=openai&logoColor=ffffff)
-![API](https://img.shields.io/badge/API-323330?style=for-the-badge&logo=api&logoColor=ffffff)
-![requests](https://img.shields.io/badge/requests-323330?style=for-the-badge&logo=python&logoColor=3776AB)
-![smtplib](https://img.shields.io/badge/smtplib-323330?style=for-the-badge&logo=python&logoColor=3776AB)
-![turtle](https://img.shields.io/badge/turtle-323330?style=for-the-badge&logo=python&logoColor=3776AB)
-![VSCode](https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+![requests](https://img.shields.io/badge/requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![smtplib](https://img.shields.io/badge/smtplib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![turtle](https://img.shields.io/badge/turtle-32CD32?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 
@@ -82,6 +82,14 @@ Here are some ideas to get you started:
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/Harxhit/Harxhit?color=F05032&logo=git&style=for-the-badge&cachebust=1">
     <img alt="Total repositories" src="https://img.shields.io/badge/total%20repositories-33-blue?style=for-the-badge&logo=github&cachebust=1">
 </div>
+# Project Info
+
+![Repositories](https://img.shields.io/badge/Repositories-30-blue?style=for-the-badge&logo=github)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-150-green?style=for-the-badge&logo=github)
+![Latest Commit](https://img.shields.io/badge/Last%20Commit-2024--07--19-orange?style=for-the-badge&logo=github)
+![Repo Size](https://img.shields.io/badge/Repo%20Size-12.34KB-yellow?style=for-the-badge&logo=github)
+
+
 
   
 
