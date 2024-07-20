@@ -61,6 +61,15 @@ Here are some ideas to get you started:
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=1572B6)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-323330?style=for-the-badge&logo=openai&logoColor=ffffff)
+![API](https://img.shields.io/badge/API-323330?style=for-the-badge&logo=api&logoColor=ffffff)
+![requests](https://img.shields.io/badge/requests-323330?style=for-the-badge&logo=python&logoColor=3776AB)
+![smtplib](https://img.shields.io/badge/smtplib-323330?style=for-the-badge&logo=python&logoColor=3776AB)
+![turtle](https://img.shields.io/badge/turtle-323330?style=for-the-badge&logo=python&logoColor=3776AB)
+
+
 
 
 
