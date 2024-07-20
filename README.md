@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 ![requests](https://img.shields.io/badge/requests-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 ![smtplib](https://img.shields.io/badge/smtplib-323330?style=for-the-badge&logo=python&logoColor=3776AB)
 ![turtle](https://img.shields.io/badge/turtle-323330?style=for-the-badge&logo=python&logoColor=3776AB)
+![VSCode](https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 
 
