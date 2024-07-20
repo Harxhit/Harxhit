@@ -75,19 +75,19 @@ Here are some ideas to get you started:
 
 
 
+## ℹ️ Project Info
 
-<h2>ℹ️ Project info</h2>
 <div>
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=181717&cachebust=1">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/Harxhit/Harxhit?color=F05032&logo=git&style=for-the-badge&cachebust=1">
-    <img alt="Total repositories" src="https://img.shields.io/badge/total%20repositories-33-blue?style=for-the-badge&logo=github&cachebust=1">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=white&cachebust=1">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/Harxhit/Harxhit?color=F05032&logo=git&style=for-the-badge&logoColor=white&cachebust=1">
+    <img alt="Total repositories" src="https://img.shields.io/badge/total%20repositories-37-blue?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
+    <img alt="Total commits" src="https://img.shields.io/badge/total%20commits-300-green?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
+    <img alt="Latest commit date" src="https://img.shields.io/badge/latest%20commit-2024--07--20-orange?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
+ 
 </div>
-# Project Info
 
-![Repositories](https://img.shields.io/badge/Repositories-30-blue?style=for-the-badge&logo=github)
-![Total Commits](https://img.shields.io/badge/Total%20Commits-150-green?style=for-the-badge&logo=github)
-![Latest Commit](https://img.shields.io/badge/Last%20Commit-2024--07--19-orange?style=for-the-badge&logo=github)
-![Repo Size](https://img.shields.io/badge/Repo%20Size-12.34KB-yellow?style=for-the-badge&logo=github)
+
+
 
 
 
