@@ -80,8 +80,8 @@ Here are some ideas to get you started:
 <div>
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Harxhit/Harxhit?color=181717&logo=github&style=for-the-badge&logoColor=white&cachebust=1">
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/Harxhit/Harxhit?color=F05032&logo=git&style=for-the-badge&logoColor=white&cachebust=1">
-    <img alt="Total repositories" src="https://img.shields.io/badge/total%20repositories-37-blue?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
-    <img alt="Total commits" src="https://img.shields.io/badge/total%20commits-210-green?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
+    <img alt="Total repositories" src="https://img.shields.io/badge/total%20repositories-39-blue?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
+    <img alt="Total commits" src="https://img.shields.io/badge/total%20commits-230-green?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
     <img alt="Contributions" src="https://img.shields.io/badge/contributions-1234-blueviolet?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
 </div>
 
