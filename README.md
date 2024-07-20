@@ -82,7 +82,7 @@ Here are some ideas to get you started:
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/Harxhit/Harxhit?color=F05032&logo=git&style=for-the-badge&logoColor=white&cachebust=1">
     <img alt="Total repositories" src="https://img.shields.io/badge/total%20repositories-37-blue?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
     <img alt="Total commits" src="https://img.shields.io/badge/total%20commits-300-green?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
-    <img alt="Latest commit date" src="https://img.shields.io/badge/latest%20commit-2024--07--20-orange?style=for-the-badge&logo=github&logoColor=white&cachebust=1">
+    
  
 </div>
 
