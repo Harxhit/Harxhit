@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Omegle**
 
-- 🌱 I’m currently learning **Cascading Style Sheets**
+- 🌱 I’m currently learning **Advance Cascading Style Sheets**
 
 - 👯 I’m looking to collaborate on **Artificial intelligence and Machine Learning based projects**
 
