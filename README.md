@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXYzZ2c1N2dtaWNoYm9ybWFheW9zcjVjc2t5ZXV3OXZ5aTU1YWpoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="200"/>
 </div>
-<h1 align="center">Hi 👋, I'm Harshit Singh Parihar<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harshit+Singh+Parihar!;" alt="Typing SVG"/>
+</h1>
+
 <h3 align="center">Passionate coder with a love for technology and innovation. Always exploring new horizons in software development and eager to learn and grow. Let's connect and inspire each other on our coding adventures!</h3>
 
 - 🔭 I’m currently working on **Omegle**
