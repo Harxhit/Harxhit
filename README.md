@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Singh Parihar</h1>
+<h1 align="center">Hi 👋, I'm Harshit Singh Parihar<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"></h1>
 <h3 align="center">Passionate coder with a love for technology and innovation. Always exploring new horizons in software development and eager to learn and grow. Let's connect and inspire each other on our coding adventures!</h3>
 
 - 🔭 I’m currently working on **Omegle**
@@ -47,6 +47,5 @@
 ### ✍️Quote for the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harxhit&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
 
