@@ -17,10 +17,7 @@
 
 - ⚡ Fun fact **I am deeply passionate about anime, which fuels my creativity and inspires me every day.**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480" height="360" alt="GIF">
-  <p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv"></a></p>
-</div>
+<img align="center" alt="coding gif" width="800" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
