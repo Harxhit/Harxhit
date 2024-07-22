@@ -17,6 +17,13 @@
 
 - ⚡ Fun fact **I am deeply passionate about anime, which fuels my creativity and inspires me every day.**
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Harxhit&icon=0&color=0" alt="visit count" />
+  </a>
+</p>
+
+
 <img align="center" alt="coding gif" width="800" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
