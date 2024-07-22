@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I am deeply passionate about anime, which fuels my creativity and inspires me every day.**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="700" height="360" alt="GIF">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480" height="360" alt="GIF">
   <p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv"></a></p>
 </div>
 
