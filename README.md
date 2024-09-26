@@ -7,9 +7,9 @@
 
 <h3 align="center">Passionate coder with a love for technology and innovation. Always exploring new horizons in software development and eager to learn and grow. Let's connect and inspire each other on our coding adventures!</h3>
 
-- 🔭 I’m currently working on **Omegle**
+- 🔭 I’m currently working on **3D Human Anatomy Website👨‍💻**
 
-- 🌱 I’m currently learning **Advance Cascading Style Sheets**
+- 🌱 I’m currently learning **Solana**
 
 - 👯 I’m looking to collaborate on **Artificial intelligence and Machine Learning based projects**
 
