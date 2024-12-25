@@ -50,7 +50,7 @@
 
 ### Data Structure and Algorithm 
 
-[![Leetcode](https://img.shields.io/badge/-Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Harxhit/)](https://leetcode.com/Harxhit/)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Harxhit/)](https://leetcode.com/Harxhit/) 
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/harshitttt)](https://codeforces.com/profile/harshitttt)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/profile/harsxit04)](https://www.hackerrank.com/profile/harsxit04)
 
