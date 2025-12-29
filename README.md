@@ -17,15 +17,6 @@
 
 - ⚡ Fun fact **I am deeply passionate about anime, which fuels my creativity and inspires me every day.**
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Harxhit&icon=0&color=0" alt="visit count" />
-  </a>
-</p>
-
-
-<img align="center" alt="coding gif" width="800" src="https://www.lambdatest.com/resources/images/news24.gif">
-
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left">💻 Full Stack & DevOps Stack</h3>
@@ -161,7 +152,7 @@
 <h3 align="left">Connect with me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"></h1></h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav">
+  <a href="https://www.linkedin.com/in/harshit-parihar-1aa9b034b">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/harxhitttt/">
