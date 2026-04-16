@@ -84,7 +84,7 @@ Backend-focused developer specializing in real-time systems — chat, video conf
 
 ### 🧩 DSA Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/harshitsinghparihar/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/harshitsinghparihar/)
 
 
 ---
