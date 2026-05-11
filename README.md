@@ -66,7 +66,7 @@ Backend-focused developer specializing in real-time systems — chat, video conf
 | Project | Description | Stack |
 |---|---|---|
 | [**Croudly**]() · [Live](https://croudly-1.onrender.com/) | Multi-tenant real-time platform with SFU WebRTC video, live streaming, Razorpay payments + webhooks, Redis Pub/Sub, k6 load tested | Node.js · WebRTC · PostgreSQL · MongoDB · Redis · Docker · AWS |
-| [**Cruddur**](https://github.com/Harxhit/Amzon-Web-Services) | Twitter-like social platform with collision-free WebSocket architecture, structured logging, Redis caching, AWS infra via Terraform | Node.js · WebSockets · MongoDB · Redis · Terraform · AWS |
+| [**Cruddur**](https://github.com/Harxhit/Crudder) | Twitter-like social platform with collision-free WebSocket architecture, structured logging, Redis caching, AWS infra via Terraform | Node.js · WebSockets · MongoDB · Redis · Terraform · AWS |
 
 ---
 
